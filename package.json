@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/community": "^0.3.31",
     "@pinecone-database/pinecone": "^5.0.0",
     "langchain": "^0.3.18",
     "next": "14.2.3",
